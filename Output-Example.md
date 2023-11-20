@@ -1,5 +1,6 @@
                                           
-Google Drive Link to undewrstand the output better - [OutPut-GoogleDrive](https://drive.google.com/drive/folders/1KhkXoN32Kjl2WmLJwMKC7Ry9Pbup6jac?usp=drive_link)
+Google Drive Link to understand the output better - [OutPut-GoogleDrive](https://drive.google.com/drive/folders/1KhkXoN32Kjl2WmLJwMKC7Ry9Pbup6jac?usp=drive_link)
+
 IP 192.168.1.1 is open. 
 Creating object with IP 192.168.1.1 and adding it to the list.
 
